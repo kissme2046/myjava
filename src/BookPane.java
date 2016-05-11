@@ -13,7 +13,7 @@ class BookPane extends JPanel
   static int cnt;
   static String[] info = new String[32];
   static int[] imgtmp = new int[32];
-  static final String ATT = "名字            生命   攻击  防御  伤害";
+  static final String ATT = "名字            生命   攻击  防御  伤害1";
 
   BookPane(Hero paramHero, Game paramGame)
   {
