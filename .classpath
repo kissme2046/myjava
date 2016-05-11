@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="pic/" kind="src" path="src"/>
+	<classpathentry kind="src" path="pic"/>
+	<classpathentry kind="src" path="mid"/>
+	<classpathentry kind="src" path="wav"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
